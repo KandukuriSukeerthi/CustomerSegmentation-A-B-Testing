@@ -1,3 +1,5 @@
+#Customer Segmentation & A/B Testing
+
 Project Summary
 
 In this project, I analyzed customer transaction data to uncover actionable insights that could inform strategic business decisions. This project integrated customer segmentation and A/B testing to optimize marketing strategies and budget allocation. Leveraging tools such as Python, R, Excel, and Tableau, I conducted data cleaning, clustering, statistical analysis, and visualization to gain deep insights into customer behavior and purchasing patterns. Spanning the years 2020-2023, the analysis was based on a custom-designed retail dataset that simulated real-world sales dynamics, ensuring a practical and impactful approach to data-driven decision-making.
