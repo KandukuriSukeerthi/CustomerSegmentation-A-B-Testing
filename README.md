@@ -1,3 +1,5 @@
+<img src="https://public.tableau.com/app/profile/sukeerthi.kandukuri/viz/CustomerSegmentationABTestingInsights/Dashboard">
+
 # Customer Segmentation & A/B Testing
 
 Project Summary
