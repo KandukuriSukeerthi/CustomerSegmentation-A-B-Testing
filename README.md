@@ -1,4 +1,4 @@
-<img src="https://public.tableau.com/app/profile/sukeerthi.kandukuri/viz/CustomerSegmentationABTestingInsights/Dashboard">
+![Dashboard preview](Dashboard.png)
 
 # Customer Segmentation & A/B Testing
 
